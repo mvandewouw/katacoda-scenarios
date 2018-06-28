@@ -8,8 +8,8 @@ We want the ubuntu server version **wget ...**
 
 No we install this debian package **dpkg -i ...**
 
-`dpkg -i ~/chef-server-core_12.17.33-1_amd64.deb`
+`dpkg -i ~/chef-server-core_12.17.33-1_amd64.deb`{{execute}}
 
-After installing we need to configure it **chef-server-ctl ...***
+After installing we need to configure it **chef-server-ctl ...**
 
-`chef-server-ctl reconfigure`
+`chef-server-ctl reconfigure`{{execute}}
