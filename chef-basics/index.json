@@ -6,8 +6,11 @@
   "details": {
     "steps": [{
       "title": "Installing the Chef Server",
-      "text": "step1.md"
-    }],
+      "text": "step1.md",
+    
+      "title": "Configuring the Chef Server",
+      "text": "step2.md"
+      }],
     "intro": {
       "text": "intro.md",
       "credits": ""
@@ -18,7 +21,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nLet's start our Chef journey\u001b[m\r\n",
     "showdashboard": true,
     "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 443", "port": 443}]
   },
