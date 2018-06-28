@@ -1,11 +1,11 @@
 {
   "title": "Introduction into Chef software stack",
-  "description": "Your First Scenario",
+  "description": "Installing / configuring and using Chef Server / Client & Workstation",
   "difficulty": "beginner",
   "time": "60 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Installing the Chef Server",
       "text": "step1.md"
     }],
     "intro": {
