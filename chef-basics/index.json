@@ -4,13 +4,16 @@
   "difficulty": "beginner",
   "time": "60 minutes",
   "details": {
-    "steps": [{
-      "title": "Installing the Chef Server",
-      "text": "step1.md",
-    
-      "title": "Configuring the Chef Server",
-      "text": "step2.md"
-      }],
+    "steps": [
+      {
+        "title": "Installing the Chef Server",
+        "text": "step1.md"
+      },
+      {
+        "title": "Configuring the Chef Server",
+        "text": "step2.md"
+      }
+      ],
     "intro": {
       "text": "intro.md",
       "credits": ""
