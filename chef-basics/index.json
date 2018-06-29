@@ -29,6 +29,6 @@
     "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 443", "port": 443}]
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "ubuntu-2node"
   }
 }
