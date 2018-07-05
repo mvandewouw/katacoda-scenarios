@@ -25,6 +25,8 @@
   "environment": {
     "uilayout": "terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nLet's start our Chef journey\u001b[m\r\n",
+    "uilayout2": "terminal",
+    "uimessage2": "\u001b[32mYour Interactive Bash Terminal.\r\nLet's start our Chef journey\u001b[m\r\n",
     "showdashboard": true,
     "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 443", "port": 443}]
   },
