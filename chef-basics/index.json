@@ -20,16 +20,10 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-            "host01": [ {"file": "*", "target": "/root", "chmod": "+x" } ],            
-            "node01": [ {"file": "*", "target": "/root", "chmod": "+x" } ],
-            "node02": [ {"file": "*", "target": "/root", "chmod": "+x" } ],
-            "node03": [ {"file": "*", "target": "/root", "chmod": "+x" } ]
-        }
+    }
   },
   "environment": {
-    "uilayout": "terminal",
+    "uilayout": "terminal-terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nLet's start our Chef journey\u001b[m\r\n",
     "showdashboard": true,
     "dashboards": [{"name": "Display 80", "port": 80}, {"name": "Display 443", "port": 443}]
